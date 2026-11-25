@@ -10,7 +10,7 @@ An AWS defensive architecture study portfolio. Ten guided labs cover governance,
 
 Portfólio de laboratórios voltados à arquitetura defensiva em nuvem AWS. O trabalho inclui planejamento de controles, revisão técnica de configuração, documentação de evidências e avaliação de riscos. Os cenários são ilustrativos, sem afirmar implantação ou certificação real.
 
-**[Baixar manual de laboratórios (PDF, 12 páginas)](pdf/aws-guardrails-labs.pdf)**
+**[Baixar manual de laboratórios (PDF, 19 páginas)](pdf/aws-guardrails-labs.pdf)**
 
 ## Trilha de laboratórios
 
@@ -55,3 +55,27 @@ Previously maintained in another personal account, the project was revised and m
 Anteriormente mantido em outra conta pessoal, o projeto foi revisado e migrado para consolidar meu portfólio profissional.
 
 Pablo Sousa Ribeiro · [GitHub](https://github.com/sousaa-dev)
+
+## Edição acadêmica revisada (2026)
+
+- [Manual completo em PDF](pdf/aws-guardrails-labs.pdf) — 19 páginas, 16 capítulos, capa, sumário e referências.
+- [Versão editável em Markdown](manual/edicao-revisada.md)
+
+1. Fundamentos e responsabilidade compartilhada
+2. Regiões, disponibilidade e arquitetura
+3. IAM e separação de funções
+4. Identity Center, organizações e governança
+5. VPC e segmentação
+6. EC2 e proteção de compute
+7. Proteção de armazenamento S3
+8. KMS e Secrets Manager
+9. CloudTrail e CloudWatch
+10. AWS Config e governança de configuração
+11. GuardDuty, Security Hub e Inspector
+12. Proteção de aplicações e WAF
+13. AWS Backup e continuidade
+14. CloudFormation e infraestrutura como código
+15. Custos, orçamento e encerramento
+16. Resposta a incidentes e arquitetura integradora
+
+Os cenários e atividades são propostas educacionais; não constituem evidência de implantação real.
