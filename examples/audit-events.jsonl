@@ -1,0 +1,3 @@
+{"time":"2026-01-01T10:00:00Z","event":"ConfigurationReview","resource":"synthetic-bucket","status":"reviewed"}
+{"time":"2026-01-01T11:00:00Z","event":"BackupCheck","resource":"synthetic-documents","status":"pending"}
+{"time":"2026-01-01T12:00:00Z","event":"AccessReview","resource":"synthetic-role","status":"reviewed"}

@@ -1,0 +1,6 @@
+control,evidence,owner,status
+Private storage,Template review,Platform,Pending
+Encryption,Template review,Platform,Pending
+MFA,Role matrix,Identity,Pending
+Audit retention,Evidence plan,Security,Pending
+Recovery,Restore exercise,Operations,Pending
